@@ -1,0 +1,14 @@
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW7\Homework_07_Baryshev\bin\Debug\Homework_07.exe.config
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW7\Homework_07_Baryshev\bin\Debug\Homework_07.exe
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW7\Homework_07_Baryshev\bin\Debug\Homework_07.pdb
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW7\Homework_07_Baryshev\obj\Debug\Homework_07.csprojAssemblyReference.cache
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW7\Homework_07_Baryshev\obj\Debug\Homework_07.csproj.CoreCompileInputs.cache
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW7\Homework_07_Baryshev\obj\Debug\Homework_07.exe
+D:\Cloud Mail.Ru\MY_Projects\UnityProjects\C#_HW7\Homework_07_Baryshev\obj\Debug\Homework_07.pdb
+C:\Users\Heaven\Downloads\C#_HW7\Homework_07_Baryshev\obj\Debug\Homework_07.csproj.AssemblyReference.cache
+C:\Users\Heaven\Downloads\C#_HW7\Homework_07_Baryshev\obj\Debug\Homework_07.csproj.CoreCompileInputs.cache
+C:\Users\Heaven\Downloads\C#_HW7\Homework_07_Baryshev\obj\Debug\Homework_07.exe
+C:\Users\Heaven\Downloads\C#_HW7\Homework_07_Baryshev\obj\Debug\Homework_07.pdb
+C:\Users\Heaven\Downloads\C#_HW7\Homework_07_Baryshev\bin\Debug\Homework_07.exe.config
+C:\Users\Heaven\Downloads\C#_HW7\Homework_07_Baryshev\bin\Debug\Homework_07.exe
+C:\Users\Heaven\Downloads\C#_HW7\Homework_07_Baryshev\bin\Debug\Homework_07.pdb
